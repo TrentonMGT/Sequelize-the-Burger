@@ -1,0 +1,40 @@
+#jumbotron {
+    background-image: url("/assets/img/Krabby_Patty_transparent.png");
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    color: #519835;
+    background-color: #E7993D;
+}
+
+body {
+    background-color: #E7993D;
+}
+
+#panel {
+    background-color: #519835;
+}
+
+#panel-heading {
+    background-color: #519835;
+}
+
+#custom-col {
+    background-color: #E7993D;
+}
+
+#custom-panel-body {
+    background-color: #E7993D;
+    border: 0;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+#custom-panel {
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: 0;
+}

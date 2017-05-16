@@ -1,1 +1,1 @@
-# Sequelize-the-Burger
+# EAT-A-BURGER
